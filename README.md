@@ -1,4 +1,5 @@
 #  Sticky scroll
 
-SwiftUI experimentation with `preference` and `environment` keys.
+SwiftUI experimentation using `preference` and `environment` keys.
 
+![Screenshot](simulator.gif)

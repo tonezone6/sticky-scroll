@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		DB0696A42952159700907C97 /* StickyContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = StickyContent; sourceTree = "<group>"; };
+		DB31FB6C2AC6DCE8007F555B /* simulator.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = simulator.gif; sourceTree = "<group>"; };
 		DBF4CD6B2951D24C00E0472E /* StickyScroll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StickyScroll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBF4CD6E2951D24C00E0472E /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		DBF4CD702951D24C00E0472E /* LoremSectionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoremSectionsView.swift; sourceTree = "<group>"; };
@@ -48,6 +49,7 @@
 		DBF4CD622951D24C00E0472E = {
 			isa = PBXGroup;
 			children = (
+				DB31FB6C2AC6DCE8007F555B /* simulator.gif */,
 				DBF4CD87295204F300E0472E /* README.md */,
 				DB0696A42952159700907C97 /* StickyContent */,
 				DBF4CD6D2951D24C00E0472E /* StickyScroll */,
